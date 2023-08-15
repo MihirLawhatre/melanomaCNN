@@ -3,7 +3,6 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -19,9 +18,6 @@
 ## Conclusions
 we can see that the model is having the accuracy of more than 50%
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
